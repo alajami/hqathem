@@ -101,7 +101,7 @@
             <p data-aos="fade-up" data-aos-delay="200">Holy Quran Academy in Sharjah Library</p>
           </div>
           <div class="col-lg-5">
-            <form action="https://catalogue.spaa.ae/cgi-bin/koha/opac-search.pl" method="get" class="sign-up-form d-flex" data-aos="fade-up" data-aos-delay="300">
+            <form action="/cgi-bin/koha/opac-search.pl" method="get" class="sign-up-form d-flex" data-aos="fade-up" data-aos-delay="300">
               <input type="text" class="transl1 form-control" placeholder="Find books, articles, and more..." id="translControl1" name="q" value="">
               <input type="submit" class="btn btn-primary" value="Go">
             </form>
